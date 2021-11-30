@@ -1,10 +1,10 @@
-# Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
+### Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
 
-## Search
+# Search
 
 "Design a front-end for Google Search, Google Image Search, and Google Advanced Search".
 
-### Specification
+## Specification
 
 Your website must meet the following requirements.
 
