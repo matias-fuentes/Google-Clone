@@ -1,4 +1,4 @@
-### Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
+Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
 
 # Search
 
