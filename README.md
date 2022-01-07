@@ -1,8 +1,8 @@
-Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
-
 # Search
 
 "Design a front-end for Google Search, Google Image Search, and Google Advanced Search".
+
+Project details: https://cs50.harvard.edu/web/2020/projects/0/search/
 
 ## Specification
 
