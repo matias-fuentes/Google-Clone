@@ -1,5 +1,3 @@
-# Webpage: https://cs50-googleclone.netlify.app/search.html
-
 [Search](https://cs50.harvard.edu/web/2020/projects/0/search/#search)
 =====================================================================
 
