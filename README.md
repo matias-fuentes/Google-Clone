@@ -1,4 +1,4 @@
-# [Project set 0: Search](https://cs50.harvard.edu/web/2020/projects/0/search/#search)
+# [Problem set 0: Search](https://cs50.harvard.edu/web/2020/projects/0/search/#search)
 
 Design a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
