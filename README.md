@@ -8,6 +8,8 @@ WEBPAGE: https://cs50-googleclone.netlify.app
 
 Experience the familiarity of the world's most popular search engine with Google Clone. This identical replica of Google's search engine brings you the same powerful search capabilities, intuitive interface, and comprehensive results. Conduct searches, access news, images, and videos, and explore the vastness of the web, all within the familiar Google interface. With Google Clone, you can enjoy the convenience and reliability of the renowned search engine you know and love.
 
+![Google Clone preview](https://github.com/matias-fuentes/Google-Clone/assets/70669575/f58d3a36-fd93-4c7b-af0b-71cf04f56ab6)
+
 ## Background
 
 Recall from lecture that we can create an HTML form using a `<form>` tag and can add `<input>` tags to create input fields for that form. Later in the course, we'll see how to write web applications that can accept form data as input. For this project, we'll write forms that send data to an existing web server: in this case, Google's.
